@@ -1,2 +1,2 @@
 # charlie428b.github.io
-My Project:
+visit my website at github.io
